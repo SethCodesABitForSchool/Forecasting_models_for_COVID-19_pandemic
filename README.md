@@ -9,4 +9,6 @@ __Seminar for ECON4490__
 - The SIR Model When S(t) is a Multi-Exponential Function: https://dc.etsu.edu/cgi/viewcontent.cgi?article=3102&context=etd
 - Forecasting Models for Coronavirus Disease (COVID-19): A Survey of the State-of-the-Art: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7289234/
 - Best selected forecasting models for COVID-19 pandemic: https://www.degruyter.com/document/doi/10.1515/phys-2022-0218/html
+- Recommended reporting items for epidemic forecasting and prediction research: The EPIFORGE 2020 guidelines
+- 
   
