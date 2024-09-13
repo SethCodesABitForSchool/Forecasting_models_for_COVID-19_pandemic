@@ -1,6 +1,6 @@
 # Forecasting_models_for_COVID-19_pandemic
 
-__Seminar for ECON4490__  
+__Seminar__  
 
 - Overview of rapid mitigating strategies in Singapore during the COVID-19 pandemic: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7242914/
 - The territorial impact of COVID-19: Managing the crisis across levels of government: https://www.oecd.org/coronavirus/policy-responses/the-territorial-impact-of-covid-19-managing-the-crisis-across-levels-of-government-d3e314e1/
